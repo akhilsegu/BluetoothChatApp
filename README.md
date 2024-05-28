@@ -1,5 +1,3 @@
-# BluetoothChatApp
-
 # **Bluetooth Chat App**
 
 This project is an Android application that enables chat functionality between devices using Bluetooth. The app allows users to connect to nearby Bluetooth devices, send and receive messages, and manage Bluetooth connections.
